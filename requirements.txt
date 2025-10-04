@@ -1,0 +1,17 @@
+transformers
+PyQt5
+torch
+pyqtgraph
+spacy
+matplotlib
+seaborn
+scikit-learn
+paddleocr
+easyocr
+fuzzywuzzy
+nltk
+pytesseract
+paddlepaddle
+pyspellchecker
+openai-whisper
+ffmpeg-python
